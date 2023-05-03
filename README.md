@@ -14,3 +14,8 @@ As a part of [Seeker Project](https://github.com/TheSeekerProject/Seeker-Main), 
   4. [Machine Status Monitoring Dataset](https://github.com/TheSeekerProject/Seeker-MachineStatus/tree/main/MachineStatusDataSet)
       + Our own dataset developed from mounting sensors at two different positions on a [bridgeport machine](https://en.wikipedia.org/wiki/Bridgeport_(machine_tool_brand))
       + Desciption of the dataset and organization is given below.
+
+## Machine Status Monitoring Dataset
+~~(Last Update: Wed, May 3, 2023)~~
+THe machine status monitoring dataset is first of a kind dataset where we mounted multiple sensors (of differen types) on multiple locations of a Bridgeport machine to monitor its activity status[^1]. Our goal is to develop a publicly available machine status monitoring data with multiple machines to promote wide research in the filed of predictive maintenance and Industry 4.0. Typically indistial sensor data, especially for manufacturing industries, are closesly guarded, for competitive purposes, as they represent signatures of the production/ efficiency of the manufacturing industry. However, most of these manufacturing industries typically run with the help of fundamental machines such as motors, pumps etc. These simpler machines often lack the ability to perform any sensing and data anlytics and with the help of Seeker, we are planning to bring intelligence into them by retrofitting these machines with EH-Sensors and perfoming in-house analytics. 
+[^1] This is a live dataset and will keep on updating with new data every month.
