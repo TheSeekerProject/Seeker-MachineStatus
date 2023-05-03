@@ -1,2 +1,4 @@
-# Seeker-MachineStatus
-Contains the Predicitve Maintainnace dataset for Seeker
+# Seeker-Machine Status Monitoring
+
+Seeker is a novel co-design approach that leverages and extends coresets to efficiently execute DNN inference across a set of EH sensor nodes and a host mobile device. Seeker focuses on building an efficient EH-WSN which can collaboratively work to maximize the inferences performed at the EH-edge nodes.  Furthermore, it then applies innovative coreset techniques to efficiently and intelligently offload unfinished compute tasks to a more capable host to further increase the inferences that can be performed.
+To the best of our knowledge, Seeker is the first work to propose task-aware coreset computation}and coreset recovery. Further, Seeker integrates coresets with commercial energy harvesting systems}along with proposing emerging hardware solutions to perform maximum computation at the edge. The proposed coreset construction and recovery can also be generalized to different data modalities.
