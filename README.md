@@ -27,3 +27,10 @@ The machine status monitoring dataset is first of a kind dataset where we mounte
 + The level-2 directories symbolizes the sensors in different positions. For now we have 2 different types (100Hz & 200Hz) of sensoes at 3 different positions (6 combinations). P1, P2, P3 are fundamentally 3 sensors positioned along X Y and Z axis (although they all are tri-axis).
 + The level-3 directories are named as MachinID-StatusID-PositionID.  That means a directory named M1-S1-P1 is a sensor on positioned at Position-1 on Machine-1 operating with a StatusID-1.
 + The level 4 is the actual data with Raw accelerometer data (uncallibrated), True Accelerometer Data (Calibrated), Total Accleration Data (including g components). The Annotations are empty now. It can be filled with the Status ID for ease of training the model.  
+
+Following are few example of the sensor data (both vectors and absolute)
+![image](https://user-images.githubusercontent.com/15208196/236073331-86591dc1-dcbc-4d62-8b9c-719316b7e0dc.png)![image](https://user-images.githubusercontent.com/15208196/236073350-8b7b3f46-f20a-4ca0-a1c4-ba3f41e203b2.png)
+
+![image](https://user-images.githubusercontent.com/15208196/236073368-fe4d50fb-b849-476e-b3b1-b94d91d0e3e9.png)![image](https://user-images.githubusercontent.com/15208196/236073379-b921dce5-baad-4846-813f-be1822eaec40.png)
+
+
