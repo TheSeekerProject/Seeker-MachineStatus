@@ -29,6 +29,7 @@ The machine status monitoring dataset is first of a kind dataset where we mounte
 + The level 4 is the actual data with Raw accelerometer data (uncallibrated), True Accelerometer Data (Calibrated), Total Accleration Data (including g components). The Annotations are empty now. It can be filled with the Status ID for ease of training the model.  
 
 Following are few example of the sensor data (both vectors and absolute)
+
 ![image](https://user-images.githubusercontent.com/15208196/236073331-86591dc1-dcbc-4d62-8b9c-719316b7e0dc.png)![image](https://user-images.githubusercontent.com/15208196/236073350-8b7b3f46-f20a-4ca0-a1c4-ba3f41e203b2.png)
 
 ![image](https://user-images.githubusercontent.com/15208196/236073368-fe4d50fb-b849-476e-b3b1-b94d91d0e3e9.png)![image](https://user-images.githubusercontent.com/15208196/236073379-b921dce5-baad-4846-813f-be1822eaec40.png)
